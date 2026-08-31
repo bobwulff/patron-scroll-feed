@@ -1,1 +1,594 @@
-[]
+[
+  {
+    "name": "turbolimit",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Draft Orange",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Jack Rieger",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Giovanni B. Lucas",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Maximus ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Louie O",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Thomas",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "adam A",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Jaxindabox",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Oscar Quintanilla",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Todd Yates",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "youknowwhyimhere",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "McBedtime ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "ivysaurplant",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Michael Pacheco",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Lizagna",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "warionumba1",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Seth Larson",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "gm00",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Rainbowrooster4",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Svenkraker",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Braedon W",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "JerenM",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Micolash jr.",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Ryan",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Danny Millan",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Justin Klaas",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Coltin Calloway",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "KaballaBags",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Brody McGuire",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "robiwan",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Rob Jurewicz",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Trevor Steinberg",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Justin Hsiao",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Tommy Price Jr",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Pathfinders",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Bobby k",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Captain_Potts",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Scott Breach",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Thrillhop",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "MineralSnake01",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "MegaRed",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Paul Von Hoff",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Grizzledin",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Adam",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "GuitArthur",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "David White",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "BananaHandz",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "GGarcia411",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Nicholas",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "CalaBun",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Triv66",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Jonathon Binns",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Jaymz",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Willem Crabbe",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Prof. Rock",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Umbalin",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "ItsComfort",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Grcialex",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Brotovarious",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Pato oworshiper",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Juan Gonzalez",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Triptych5998",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Argo Ashton",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "MikeJFile",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Angel Salgado",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Catterwall ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Anthony Todd",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Julien S",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Bofrads",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "CMV",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Henry Willoughby",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Nathaniel Nimtz",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "MyStain42",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Rodrigo Loera",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Marc Sheridan",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Gabriel Neese",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Spankwise",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Anthony Biordi",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "TLud",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Bobby B",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Kevin",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Duncan George",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "spacefrog ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Chuyvilla 14",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "djSteamboat",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Andrew",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Evan Szydlowski",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "bicenhower",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "rybread",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "L-Diggity-Dawg",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Discostu migoo",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "MonsterJams69",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "DandyDank",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "KeatonKid",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Barry Ferguson",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Joe241987",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "\u05d9\u05d5\u05ea\u05dd \u05dc\u05d1\u05e0\u05d5\u05df",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Muad\u2019Doobie",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Clint Thurman",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Wombat & Quokka",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Hecatomb",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Jason Morley",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Javisflip",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "HumblePaysan",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "T",
+    "tier": "Free"
+  },
+  {
+    "name": "Eric Siew",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "gcxcluke ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "James Malin",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Logan FPS",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Kira7237",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Vosi 2e",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "niqtendo",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Kevin",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Hudson Brown",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Samuel Cassar",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Giggs",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Bryce Taras",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Mike Harvat",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "GrimmLogic",
+    "tier": "Free"
+  },
+  {
+    "name": "HarryBunz61",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Korky",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Bryce Gagner",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Nick Marotta",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Brittany",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Joshua Wilson",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "GossQJenkins",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "shadxian",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Mark Wendelborn",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Saritie ",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "George",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "daniel ",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Marune",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Brianna Valdes",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Ean Turner",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Lo VdP",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Nazaret Jarekian",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "B.Darling",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Phil Culver",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Gavin Guidry",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Zachary Jones",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Atif Farooqi",
+    "tier": "Mega Cool Guy"
+  },
+  {
+    "name": "Big Kat",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Noah Farris",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "radman montazeri",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "David Crow",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Thalasa Ashcombe",
+    "tier": "Super Cool Guy"
+  },
+  {
+    "name": "Sean ",
+    "tier": "Super Cool Guy"
+  }
+]
